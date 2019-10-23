@@ -14,5 +14,6 @@ Requires a Python 3-based ROS installation.
 
 ## Known bugs:
 
+- hard-codes serial port as /dev/ttyTHS1
 - Doesn't exit on ^C, needs a ^\
 - dependency on [sphero-sdk](https://pypi.org/project/sphero-sdk/) python package not encoded
